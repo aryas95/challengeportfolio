@@ -1,0 +1,29 @@
+
+.bg-about{
+    background-color: rgb(24, 155, 100);
+    padding: 50px;
+}
+
+.m-top{
+    margin-top: -10px;
+}
+.about-border{
+    background-image: radial-gradient(#29915c 2px, transparent 2px), radial-gradient(#29915c 2px, transparent 2px);
+background-size: 32px 32px;
+background-position: 0 0, 16px 16px;
+background-color: #d0f2bc;
+}
+.lead{
+    color: rgb(198, 228, 198);
+    line-height: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+.container-testimony{
+    padding: 70px;
+    text-align: center;
+}
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    background-color: black;
+}

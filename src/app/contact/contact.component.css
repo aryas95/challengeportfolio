@@ -1,0 +1,8 @@
+#submitButton{
+    background-color: red;
+    border: none;
+}
+#submitButton:hover{
+
+color: black;
+}

@@ -1,0 +1,31 @@
+.bg-nav{
+    background: rgb(255,254,254);
+    background: radial-gradient(circle, rgba(255,254,254,1) 3%, rgba(245,231,180,1) 50%, rgba(255,255,255,1) 98%);
+}
+.masthead{
+    margin-top: -170px;
+}
+ .masthead-heading{
+    font-size:45px;
+ }
+/* .underline{
+    border-bottom: 10px solid chocolate;
+    width: 10%;
+} */
+.bg-progress{
+    background-color: rgba(43, 246, 216, 0.668);
+    padding: 50px;
+    
+}
+.home-btn{
+    padding: 10px 20px;
+    
+    border: none;
+}
+.home-btn b{
+    font-size: 20px;
+}
+.home-btn:hover{
+    background-color:rgb(241, 114, 3);
+    border: none;
+}

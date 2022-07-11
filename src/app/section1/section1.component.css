@@ -1,0 +1,6 @@
+.portfolio{
+    background-color:#fbc38e;
+}
+.portfolio .portfolio-item .portfolio-item-caption:hover {
+    background-color: #ff522f;
+}
